@@ -18,4 +18,30 @@ I'm an aspiring Android App Developer and Website Developer from the Philippines
 
 [More Projects...](https://github.com/SnoopyCodeX/?tab=repositories)
 
+## :wrench: Technologies
+
+![HTML5](https://img.icons8.com/color/30/html-5.png)
+![CSS3](https://img.icons8.com/color/30/css3.png)
+![JavaScript](https://img.icons8.com/color/30/javascript.png)
+![PHP](https://img.icons8.com/color/30/php.png)
+![Java](https://img.icons8.com/color/30/java.png)
+![Github](https://img.icons8.com/material-outlined/30/github.png)
+![Windows](https://img.icons8.com/color/30/windows-10.png)
+
 [![Top Language](https://github-readme-stats-sepia-rho.vercel.app/api/top-langs?username=SnoopyCodeX&layout=compact)](https://github.com/SnoopyCodeX/github-readme-stats)
+
+---
+
+## :trophy: Github Awards
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=SnoopyCodeX)
+
+## :zap: Github Stats
+
+[![SnoopyCodeX Github Stats](https://github-readme-stats-sepia-rho.vercel.app/api?username=SnoopyCodeX&show_icons=true&count_private=true)](https://github.com/SnoopyCodeX/github-readme-stats)
+
+---
+
+:computer: with :heart: by **SnoopyCodeX** inspired from **[Waren Gonzaga's github profile](https://github.com/warengonzaga)** :muscle:
+
+[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/SnoopyCodeX) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SnoopyCodeX) [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCC65iAfGIHvMCi1vV-I8OSQ)
