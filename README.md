@@ -10,12 +10,12 @@ I'm an aspiring Android App Developer and Website Developer from the Philippines
 
 ## :computer: Finished Projects
 
-[![Update Checker](https://github-readme-stats-1-mu.vercel.app/api/pin/?username=snoopycodex&repo=jsonupdatecheckerandroid)](https://github.com/SnoopyCodeX/jsonupdatecheckerandroid)
-[![COVID-19 Tracker](https://github-readme-stats-1-mu.vercel.app/api/pin/?username=snoopycodex&repo=covid19tracker)](https://github.com/SnoopyCodeX/covid19tracker)
-[![Voice Recognizer](https://github-readme-stats-1-mu.vercel.app/api/pin/?username=snoopycodex&repo=voice-recognizer)](https://github.com/SnoopyCodeX/voice-recognizer)
-[![Virtual RVM](https://github-readme-stats-1-mu.vercel.app/api/pin/?username=snoopycodex&repo=virtualrvm)](https://github.com/SnoopyCodeX/virtualrvm)
-[![Binary Matrix](https://github-readme-stats-1-mu.vercel.app/api/pin/?username=snoopycodex&repo=binarymatrixandroid)](https://github.com/SnoopyCodeX/binarymatrixandroid)
+[![Update Checker](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=SnoopyCodeX&repo=jsonupdatecheckerandroid)](https://github.com/SnoopyCodeX/jsonupdatecheckerandroid)
+[![COVID-19 Tracker](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=SnoopyCodeX&repo=covid19tracker)](https://github.com/SnoopyCodeX/covid19tracker)
+[![Voice Recognizer](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=SnoopyCodeX&repo=voice-recognizer)](https://github.com/SnoopyCodeX/voice-recognizer)
+[![Virtual RVM](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=SnoopyCodeX&repo=virtualrvm)](https://github.com/SnoopyCodeX/virtualrvm)
+[![Binary Matrix](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=SnoopyCodeX&repo=binarymatrixandroid)](https://github.com/SnoopyCodeX/binarymatrixandroid)
 
 [More Projects...](https://github.com/SnoopyCodeX/?tab=repositories)
 
-[![Top Language](https://github-readme-stats-1-mu.vercel.app/api/top-langs?username=snoopycodex&layout=compact)](https://github.com/SnoopyCodeX/github-readme-stats)
+[![Top Language](https://github-readme-stats-sepia-rho.vercel.app/api/top-langs?username=SnoopyCodeX&layout=compact)](https://github.com/SnoopyCodeX/github-readme-stats)
