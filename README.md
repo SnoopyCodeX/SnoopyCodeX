@@ -1,4 +1,4 @@
-[![SnoopyCodeX](https://raw.githubusercontent.com/SnoopyCodeX/SnoopyCodeX/master/res/img/profile.png)](https://github.com/SnoopyCodeX)
+![SnoopyCodeX](https://raw.githubusercontent.com/SnoopyCodeX/SnoopyCodeX/master/res/img/profile.png)
 
 # Hi, I am SnoopyCodeX (:computer::heart:)
 
