@@ -15,6 +15,7 @@ I'm an aspiring Android App Developer and Website Developer from the Philippines
 ## :computer: Finished Projects
 
 [![Update Checker](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=SnoopyCodeX&repo=jsonupdatecheckerandroid)](https://github.com/SnoopyCodeX/jsonupdatecheckerandroid)
+[![Virtual RVM](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=SnoopyCodeX&repo=virtualrvm)](https://github.com/SnoopyCodeX/ceit-management)
 [![COVID-19 Tracker](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=SnoopyCodeX&repo=covid19tracker)](https://github.com/SnoopyCodeX/covid19tracker)
 [![Voice Recognizer](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=SnoopyCodeX&repo=voice-recognizer)](https://github.com/SnoopyCodeX/voice-recognizer)
 [![Virtual RVM](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=SnoopyCodeX&repo=virtualrvm)](https://github.com/SnoopyCodeX/virtualrvm)
