@@ -33,7 +33,7 @@ I'm an aspiring Android App Developer and Website Developer from the Philippines
 ![Github](https://img.icons8.com/material-outlined/30/github.png)
 ![Windows](https://img.icons8.com/color/30/windows-10.png)
 
-[![Top Language](https://github-readme-stats-sepia-rho.vercel.app/api/top-langs?username=SnoopyCodeX&layout=compact)](https://github.com/SnoopyCodeX/github-readme-stats)
+[![Top Language](https://github-readme-stats-sepia-rho.vercel.app/api/top-langs?username=SnoopyCodeX&layout=compact&theme=monokai)](https://github.com/SnoopyCodeX/github-readme-stats)
 
 ---
 
