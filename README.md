@@ -14,12 +14,12 @@ I'm an aspiring Android App Developer and Website Developer from the Philippines
 
 ## :computer: Finished Projects
 
-[![Update Checker](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=SnoopyCodeX&repo=jsonupdatecheckerandroid)](https://github.com/SnoopyCodeX/jsonupdatecheckerandroid)
-[![CEIT Management](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=SnoopyCodeX&repo=ceit-management)](https://github.com/SnoopyCodeX/ceit-management)
-[![COVID-19 Tracker](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=SnoopyCodeX&repo=covid19tracker)](https://github.com/SnoopyCodeX/covid19tracker)
-[![Voice Recognizer](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=SnoopyCodeX&repo=voice-recognizer)](https://github.com/SnoopyCodeX/voice-recognizer)
-[![Virtual RVM](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=SnoopyCodeX&repo=virtualrvm)](https://github.com/SnoopyCodeX/virtualrvm)
-[![Binary Matrix](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=SnoopyCodeX&repo=binarymatrixandroid)](https://github.com/SnoopyCodeX/binarymatrixandroid)
+[![Update Checker](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=SnoopyCodeX&repo=jsonupdatecheckerandroid&theme=monokai)](https://github.com/SnoopyCodeX/jsonupdatecheckerandroid)
+[![CEIT Management](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=SnoopyCodeX&repo=ceit-management&theme=monokai)](https://github.com/SnoopyCodeX/ceit-management)
+[![COVID-19 Tracker](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=SnoopyCodeX&repo=covid19tracker&theme=monokai)](https://github.com/SnoopyCodeX/covid19tracker)
+[![Voice Recognizer](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=SnoopyCodeX&repo=voice-recognizer&theme=monokai)](https://github.com/SnoopyCodeX/voice-recognizer)
+[![Virtual RVM](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=SnoopyCodeX&repo=virtualrvm&theme=monokai)](https://github.com/SnoopyCodeX/virtualrvm)
+[![Binary Matrix](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=SnoopyCodeX&repo=binarymatrixandroid&theme=monokai)](https://github.com/SnoopyCodeX/binarymatrixandroid)
 
 [More Projects...](https://github.com/SnoopyCodeX/?tab=repositories)
 
@@ -43,7 +43,7 @@ I'm an aspiring Android App Developer and Website Developer from the Philippines
 
 ## :zap: Github Stats
 
-[![SnoopyCodeX Github Stats](https://github-readme-stats-sepia-rho.vercel.app/api?username=SnoopyCodeX&show_icons=true&count_private=true)](https://github.com/SnoopyCodeX/github-readme-stats)
+[![SnoopyCodeX Github Stats](https://github-readme-stats-sepia-rho.vercel.app/api?username=SnoopyCodeX&show_icons=true&count_private=true&theme=monokai)](https://github.com/SnoopyCodeX/github-readme-stats)
 
 ---
 
