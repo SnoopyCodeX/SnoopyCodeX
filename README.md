@@ -39,7 +39,7 @@ I'm an aspiring Android App Developer and Website Developer from the Philippines
 
 ## :trophy: Github Awards
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=SnoopyCodeX)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=SnoopyCodeX&theme=monokai)
 
 ## :zap: Github Stats
 
