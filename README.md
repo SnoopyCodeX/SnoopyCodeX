@@ -25,13 +25,20 @@ I'm an aspiring Android App Developer and Website Developer from the Philippines
 
 ## :wrench: Technologies
 
-![HTML5](https://img.icons8.com/color/30/html-5.png)
-![CSS3](https://img.icons8.com/color/30/css3.png)
-![JavaScript](https://img.icons8.com/color/30/javascript.png)
-![PHP](https://img.icons8.com/color/30/php.png)
-![Java](https://img.icons8.com/color/30/java.png)
-![Github](https://img.icons8.com/material-outlined/30/github.png)
-![Windows](https://img.icons8.com/color/30/windows-10.png)
+![HTML5](https://img.icons8.com/windows/48/000000/html-5.png)
+![CSS3](https://img.icons8.com/ios/48/000000/css3.png)
+![JavaScript](https://img.icons8.com/ios/48/000000/javascript--v1.png)
+![PHP](https://img.icons8.com/wired/48/000000/php-logo.png)
+![Java](https://img.icons8.com/material-outlined/48/000000/java-coffee-cup-logo.png)
+![Github](https://img.icons8.com/ios/48/000000/github--v1.png)
+![Windows](https://img.icons8.com/ios-filled/48/000000/windows-10.png)
+![Flutter](https://img.icons8.com/ios/48/000000/flutter.png)
+![Laravel](https://img.icons8.com/ios/48/000000/laravel.png)
+![Bootstrap](https://img.icons8.com/windows/48/000000/bootstrap.png)
+![JQuery](https://img.icons8.com/ios/48/000000/jquery.png)
+![MyQSL](https://img.icons8.com/ios/48/000000/mysql-logo.png)
+![Firebase](https://img.icons8.com/color/48/000000/firebase.png)
+![NodeJS](https://img.icons8.com/windows/48/000000/nodejs.png)
 
 [![Top Language](https://github-readme-stats-sepia-rho.vercel.app/api/top-langs?username=SnoopyCodeX&layout=compact&theme=monokai)](https://github.com/SnoopyCodeX/github-readme-stats)
 
