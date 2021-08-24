@@ -14,43 +14,45 @@ I'm an aspiring Android App Developer and Website Developer from the Philippines
 
 ## :computer: Finished Projects
 
-[![Update Checker](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=SnoopyCodeX&repo=jsonupdatecheckerandroid&theme=monokai)](https://github.com/SnoopyCodeX/jsonupdatecheckerandroid)
-[![CEIT Management](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=SnoopyCodeX&repo=ceit-management&theme=monokai)](https://github.com/SnoopyCodeX/ceit-management)
-[![COVID-19 Tracker](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=SnoopyCodeX&repo=covid19tracker&theme=monokai)](https://github.com/SnoopyCodeX/covid19tracker)
-[![Voice Recognizer](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=SnoopyCodeX&repo=voice-recognizer&theme=monokai)](https://github.com/SnoopyCodeX/voice-recognizer)
-[![Virtual RVM](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=SnoopyCodeX&repo=virtualrvm&theme=monokai)](https://github.com/SnoopyCodeX/virtualrvm)
-[![Binary Matrix](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=SnoopyCodeX&repo=binarymatrixandroid&theme=monokai)](https://github.com/SnoopyCodeX/binarymatrixandroid)
+[![Update Checker](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=SnoopyCodeX&repo=jsonupdatecheckerandroid&hide_border=true&theme=radical)](https://github.com/SnoopyCodeX/jsonupdatecheckerandroid)
+[![CEIT Management](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=SnoopyCodeX&repo=ceit-management&hide_border=true&theme=radical)](https://github.com/SnoopyCodeX/ceit-management)
+[![COVID-19 Tracker](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=SnoopyCodeX&repo=covid19tracker&hide_border=true&theme=radical)](https://github.com/SnoopyCodeX/covid19tracker)
+[![Voice Recognizer](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=SnoopyCodeX&repo=voice-recognizer&hide_border=true&theme=radical)](https://github.com/SnoopyCodeX/voice-recognizer)
+[![Virtual RVM](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=SnoopyCodeX&repo=virtualrvm&hide_border=true&theme=radical)](https://github.com/SnoopyCodeX/virtualrvm)
+[![Binary Matrix](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=SnoopyCodeX&repo=binarymatrixandroid&hide_border=true&theme=radical)](https://github.com/SnoopyCodeX/binarymatrixandroid)
 
 [More Projects...](https://github.com/SnoopyCodeX/?tab=repositories)
 
 ## :wrench: Technologies
 
-![HTML5](https://img.icons8.com/windows/48/000000/html-5.png)
-![CSS3](https://img.icons8.com/ios/48/000000/css3.png)
-![JavaScript](https://img.icons8.com/ios/48/000000/javascript--v1.png)
-![PHP](https://img.icons8.com/wired/48/000000/php-logo.png)
-![Java](https://img.icons8.com/material-outlined/48/000000/java-coffee-cup-logo.png)
-![Github](https://img.icons8.com/ios/48/000000/github--v1.png)
-![Windows](https://img.icons8.com/ios-filled/48/000000/windows-10.png)
-![Flutter](https://img.icons8.com/ios/48/000000/flutter.png)
-![Laravel](https://img.icons8.com/ios/48/000000/laravel.png)
-![Bootstrap](https://img.icons8.com/windows/48/000000/bootstrap.png)
-![JQuery](https://img.icons8.com/ios/48/000000/jquery.png)
-![MyQSL](https://img.icons8.com/ios/48/000000/mysql-logo.png)
-![Firebase](https://img.icons8.com/color/48/000000/firebase.png)
-![NodeJS](https://img.icons8.com/windows/48/000000/nodejs.png)
+![HTML5](https://img.icons8.com/color/30/html-5.png)
+![CSS3](https://img.icons8.com/color/30/css3.png)
+![JavaScript](https://img.icons8.com/color/30/javascript.png)
+![Java](https://img.icons8.com/color/30/000000/java-coffee-cup-logo--v1.png)
+![PHP](https://img.icons8.com/color/30/php.png)
+![Github](https://img.icons8.com/material-outlined/30/github.png)
+![Git](https://img.icons8.com/color/30/git.png)
+![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
+![VueJS](https://img.icons8.com/color/30/vue-js.png)
+![Flutter](https://img.icons8.com/color/30/flutter.png)
+![Windows](https://img.icons8.com/color/30/windows-10.png)
+![Laravel](https://img.icons8.com/fluency/30/000000/laravel.png)
+![Bootstrap](https://img.icons8.com/color/30/000000/bootstrap.png)
+![JQuery](https://img.icons8.com/ios-filled/30/4a90e2/jquery.png)
+![MyQSL](https://img.icons8.com/fluency/48/4a90e2/mysql-logo.png)
+![Firebase](https://img.icons8.com/color/30/4a90e2/firebase.png)
+![NodeJS](https://img.icons8.com/color/30/nodejs.png)
+![NPM](https://img.icons8.com/color/30/npm.png)
 
-[![Top Language](https://github-readme-stats-sepia-rho.vercel.app/api/top-langs?username=SnoopyCodeX&layout=compact&theme=monokai)](https://github.com/SnoopyCodeX/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SnoopyCodeX&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
 ---
-
-## :trophy: Github Awards
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=SnoopyCodeX&theme=monokai)
+![SnoopyCodeX's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SnoopyCodeX&theme=radical&hide_border=true)
+---
 
 ## :zap: Github Stats
 
-[![SnoopyCodeX Github Stats](https://github-readme-stats-sepia-rho.vercel.app/api?username=SnoopyCodeX&show_icons=true&count_private=true&theme=monokai)](https://github.com/SnoopyCodeX/github-readme-stats)
+![SnoopyCodeX's Stats](https://github-readme-stats.vercel.app/api?username=SnoopyCodeX&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
