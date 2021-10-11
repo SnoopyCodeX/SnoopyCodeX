@@ -14,6 +14,8 @@ I'm an aspiring Android App Developer and Website Developer from the Philippines
 
 ## :computer: Finished Projects
 
+[![Read and Learn](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=SnoopyCodeX&repo=read_and_learn_app&hide_border=true&theme=radical)](https://github.com/SnoopyCodeX/read_and_learn_app)
+[![Read and Learn (RESTful API)](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=SnoopyCodeX&repo=read_and_learn_rest_api&hide_border=true&theme=radical)](https://github.com/SnoopyCodeX/read_and_learn_rest_api)
 [![Update Checker](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=SnoopyCodeX&repo=jsonupdatecheckerandroid&hide_border=true&theme=radical)](https://github.com/SnoopyCodeX/jsonupdatecheckerandroid)
 [![CEIT Management](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=SnoopyCodeX&repo=ceit-management&hide_border=true&theme=radical)](https://github.com/SnoopyCodeX/ceit-management)
 [![COVID-19 Tracker](https://github-readme-stats-sepia-rho.vercel.app/api/pin/?username=SnoopyCodeX&repo=covid19tracker&hide_border=true&theme=radical)](https://github.com/SnoopyCodeX/covid19tracker)
