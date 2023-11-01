@@ -1,5 +1,10 @@
 ![SnoopyCodeX](https://raw.githubusercontent.com/SnoopyCodeX/SnoopyCodeX/master/res/img/profile.png)
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/0x3EF8/count.svg" />
+</p>
+
 # Hi, I am SnoopyCodeX (:computer::heart:)
 
 I'm an aspiring Android App Developer and Website Developer from the Philippines!
