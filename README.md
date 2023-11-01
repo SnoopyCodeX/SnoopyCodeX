@@ -2,7 +2,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/0x3EF8/count.svg" />
+  <img src="https://profile-counter.glitch.me/SnoopyCodeX/count.svg" />
 </p>
 
 # Hi, I am SnoopyCodeX (:computer::heart:)
