@@ -1,3 +1,5 @@
+[![An image of @snoopycodex's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/snoopycodex)](https://holopin.io/@snoopycodex)
+
 ![SnoopyCodeX](https://raw.githubusercontent.com/SnoopyCodeX/SnoopyCodeX/master/res/img/profile.png)
 
 <p align="center"> 
