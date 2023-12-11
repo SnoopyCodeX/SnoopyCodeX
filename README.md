@@ -7,7 +7,7 @@
   <img src="https://profile-counter.glitch.me/SnoopyCodeX/count.svg" />
 </p>
 
-# Hi, I am SnoopyCodeX (:computer::heart:)
+# Hi, I am SnoopyCodeX ( :computer: :heart: )
 
 I'm an aspiring Android App Developer and Website Developer from the Philippines!
 
